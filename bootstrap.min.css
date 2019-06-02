@@ -4847,7 +4847,6 @@ input[type=submit].btn-block {
 }
 
 .card:hover {
-	position: relative;
 	word-wrap: break-word;
 	border-color: #000;
     outline: 0;
